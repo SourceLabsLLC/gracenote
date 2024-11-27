@@ -5,7 +5,6 @@
 #
 require 'net/http'
 require 'net/https'
-require 'curb'
 require 'rack'
 require 'uri'
 
